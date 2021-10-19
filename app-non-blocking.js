@@ -1,3 +1,6 @@
+
+//esta es una ejecucion NO BLOQUEANTE, 
+
 const { getUsuario } = require('./usuarios/usuarios');
 
 console.log('Inicio de programa');
